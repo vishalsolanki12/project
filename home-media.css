@@ -1,0 +1,300 @@
+@media (max-width:500px) 
+{
+    *{
+        max-width: 100%;
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    .header1 {
+    background-color: black;
+    flex-wrap: nowrap;
+}
+.logo {
+    padding-top: 30px;
+    padding-left: 40px;
+}
+.nav {
+    display: block;
+    background-color: black;
+    width: 30%;
+    margin: auto 0 auto 220px ;
+}
+.menuclik{
+    /* opacity: 1; */
+    opacity: 1;
+    color: white;
+    font-size: 30px;
+    /* background-color: black; */
+}
+.mediamenu{
+    display: none;
+}
+.hyperco h1
+{
+    font-size: 30px;
+}
+.hyperco p
+{
+    font-size: 20px;
+}
+.hyperco h2
+{
+    padding-top: 40px;
+}
+.hyperco h3
+{
+    font-size: 20px;
+}
+.register
+{
+    margin: 50px 0px 0px 130px;
+}
+.more
+{
+    margin: -45px 0px 0px 260px;
+}
+.slider
+{
+display: block;
+}
+.slider1
+{
+   margin-top: 40px;
+}
+.slide,.slid3,.slid4,.slid18,.slid19,.slideight,.slidera
+{
+   flex-wrap: wrap;
+}
+.slid1 p,.slid2 p  
+{
+    padding: 40px 30px;
+    margin-right: 0px;
+}
+.slid13, .slid14 {
+    padding: 0px 0px 50px 20px;
+}
+.slid15 img
+{
+    margin-left: 0px;
+    width: 100%;
+}
+.slid13 h1,.slid14 h1
+{
+    padding: 50px 0px 0px 0px;
+}
+.slid16
+{
+    padding: 0px 0px;
+}
+.slid16 h1
+{
+    margin:10px 160px;
+}
+.slid16 p 
+{
+    margin: 0px 90px 50px 90px;
+}
+.fa-bolt
+{
+    margin:30px 0px 0px 200px;
+}
+.slid17 img 
+{
+    margin: 0px 10px 0px 20px;
+    height: 450px;
+}
+.slidone,.slidfour,.slidtwo,.slidthree
+{
+    padding: 0px 50px 0px 50px;
+}
+.slider12345
+{
+    display: block;
+}
+.slidsix
+{
+    width: 100%;
+    padding: 50px 0px 50px 50px;
+}
+.slidfive
+{
+    width: 100%;
+    padding: 0px 30px 0px 30px;
+}
+.slidfive h1
+{
+    padding-top: 20px;
+}
+.slidseven h1 
+{
+    margin: 0px 30px;
+}
+.slidseven p 
+{
+    padding: 10px 0px 0px 30px;
+}
+.slid10
+{
+    width: 100%;
+    padding: 0px 50px;
+}
+.slid11
+{
+    width: 100%;
+    padding: 40px 0px 0px 30px;
+}
+.white,.white1,.white2
+{
+    font-size: 20px;
+}
+.integer,.integer1,.integer2
+{
+
+    padding:0px 0px 0px 60px;
+}
+.slide1,.slide2
+{
+    width: 100%;
+    padding: 50px ;
+}
+.road 
+{
+    padding: 40px 20px 0px 20px;
+}
+.road h1 
+{
+    padding-left: 20px;
+}
+.road1 
+{
+    padding: 70px 0px 0px 10px;
+}
+.road1 p 
+{
+    width: 90%;
+    padding: 0px 0px 20px 35px;
+}
+.more1
+{
+    margin: 100px 0px 0px 150px;
+}
+.prasale1
+{
+    flex-wrap: wrap;
+    padding: 40px 0px;
+}
+.name,.email,.question,.send
+{
+    width: 100%;
+    padding: 20px 0px 20px 0px;
+}
+.footer
+{
+    flex-wrap: wrap;
+    padding:0px 0px 50px 40px;
+}
+.foter
+{
+    width: 100%;
+    padding: 60px 0px 0px 0px;
+}
+.foter1
+{
+    width: 100%;
+    padding: 45px 0px 0px 0px;
+}
+.foter2
+{
+    width: 90%;
+    padding: 50px 0px 0px 0px;
+}
+.position
+{
+    top: 580px;
+}
+.position2
+{
+    top: 550px;
+}
+}
+
+@media (max-width:360px) 
+{
+    *{
+        max-width: 100%;
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    .logo {
+        padding: 25px 0px 0px 20px;
+        width: 80%;
+    }
+    .hyperco p
+{
+    width: 95%;
+}
+.hyperco h2
+{
+    padding-top: 10px;
+}
+.register
+{
+    margin: 50px 0px 0px 40px;
+}
+.more
+{
+    margin: -45px 0px 0px 190px;
+}
+.fa-bolt
+{
+    margin:30px 0px 0px 120px;
+}
+.slid16 h1
+{
+    margin:10px 110px;
+}
+.slid16 p 
+{
+    margin: 0px 90px 50px 30px;
+    width: 85%;
+}
+.slid17 img 
+{
+    margin: 0px 10px 0px 10px;
+    height: 400px;
+}
+.slidone p,.slidfour p,.slidtwo p,.slidthree p
+{
+    width: 100%;
+}
+.slidone h2 
+{
+    width: 100%;
+}
+.slidsix
+{
+    padding: 50px 0px 50px 30px;
+}
+.slide1,.slide2
+{
+    padding: 30px 5px 30px 5px;
+}
+.road1 
+{
+    padding: 70px 0px 0px 0px;
+}
+.more1
+{
+    margin: 100px 0px 0px 100px;
+}
+.footer
+{
+    padding:0px 0px 50px 20px;
+}
+.foter button
+{
+    margin: 40px 20px 0px 0px;
+}
+}
