@@ -1,0 +1,334 @@
+@media (max-width:500px) 
+{
+    .nav{
+        flex-wrap: wrap;
+    }
+.navigation{
+    display: none;
+}
+.img 
+{
+   width: 500px;
+   margin: auto;
+   padding: 400px 0px 0px 20px;
+}
+.main 
+{
+    grid-template-columns: 1fr 1fr;
+    padding: 10px 0px 30px 30px;
+    justify-content: space-between;
+}
+.main1,.main3,.main5,.main2,.main4,.main6
+{
+    padding: 20px 0px 0px 0px;
+    border-right:none;
+    transition: 0.2s;
+}
+.header
+{
+    grid-template-columns:6fr;
+    padding: 0px 50px 50px 40px;
+}
+.logo
+{
+    padding: 30px 40px;
+}
+.logo img
+{
+    height: 45px;
+}
+.fa-logo
+{
+    display: block;
+    padding: 25px 0px 0px 60px;
+}
+.img 
+{
+    width: auto;
+    border-radius: 10px;
+    padding: 150px 0px 20px 20px;
+}
+.hot
+{
+    padding: 20px 0px 20px 25px;
+}
+.most
+{
+    padding: 20px 0px 20px 25px;
+}
+.fourpositiondiv{
+    grid-template-columns: 390px;
+    grid-template-rows:100px 100px 100px 100px ;
+    padding: 0 20px;
+    gap: 20px;
+    position: static;
+    top: 0%; 
+}
+.positionsection{
+    grid-template-rows: 500px;
+}
+.imgindivs img 
+{
+    left: 310px;
+}
+.pa{
+    grid-template-columns:1fr 8fr ;
+    padding: 20px 0;
+}
+.slider1
+{
+    grid-template-columns: 1fr;
+    padding: 50px 20px 0 20px ;
+}
+.bgimg h2
+{
+    width: 85%;
+    padding: 450px 0px 0px 30px;
+}
+.bgimg h5,.bgimage h5,.bgimage1 h5 
+{
+    padding: 10px 0px 40px 30px;
+}
+.bgimage,.bgimage1
+{
+    margin: 20px 10px 10px 10px;
+}
+.bgimg2
+{
+  padding: 20px 10px 0px 10px;
+}
+.mining
+{
+    padding: 30px 10px 20px 20px;
+}
+.slider2
+{
+    padding: 0px 10px 140px 10px;
+}
+.sliderin5{
+    grid-template-columns: 1fr;
+}
+.effect,.effect1,.effect2,.effect3,.effect4,.effect5
+{
+    border-bottom: none;
+    grid-template-columns: 1fr 2fr;
+}
+.eff1 h3,.eff3 h3,.eff5 h3,.eff7 h3,.eff9 h3,.eff11 h3
+{
+    font-size: 15px;
+}
+.crypto1
+{
+    margin: 25px 10px 30px 10px;
+}
+.test,.test1
+{
+    grid-template-rows: 3.5fr 1fr;
+}
+.text1,.text3
+{
+    padding: 20px 0px 20px 20px;
+}
+.text1 h3,.text3 h3
+{
+    width: 100%;
+}
+.crypto2
+{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.cryptos1
+{
+    margin: 15px 10px -150px 15px;
+}
+.lates
+{
+    padding: 30px 0px 30px 0px;
+}
+.slider3
+{
+    padding: 15px 10px 100px 10px; 
+}
+.lates
+{
+    padding: 30px 0px 30px 25px;
+}
+.sliderin6
+{
+    grid-template-columns: 2fr;
+}
+.great,.great1,.great2,.great3
+{
+    grid-template-columns: 1fr;
+    padding: 10px 10px;
+}
+.ico,.ico2,.ico4,.ico6
+{
+    padding: 100px 0px 100px 0px;
+    border-radius: 10px 10px 0px 0px;
+}
+.ico1,.ico3,.ico5,.ico7
+{
+    padding: 10px 0px 0px 10px ;
+    border-radius: 0px 0px 10px 10px;
+}
+.ico4 button
+{
+    margin: 35px 0px 0px 200px;
+}
+.ico9,.ico10
+{
+    margin: 15px 10px 15px 10px;
+}
+.foterend
+{
+    margin: 70px 10px 0px 10px;
+    grid-template-columns: 1fr;
+}
+.foterend1
+{
+    grid-template-columns: 1fr;
+}
+.footer4
+{
+    padding: 30px 0px 0px 40px;
+}
+.footer4 p
+{
+    padding: 40px 0px 0px 40px;
+}
+.footer2,.footer3
+{
+    padding: 15px 0px 0px 15px;
+}
+.foter p
+{
+    padding: 40px 0px 0px 100px;
+}
+.foter1  
+{
+    padding: 0px 0px 0px 200px;
+}
+.icon 
+{
+    padding-right: 10px;
+}
+.angle
+{
+    top: 550px;
+}
+}
+
+@media (max-width:360px)
+{
+    .main 
+{
+    padding: 10px 0px 30px 20px;
+}
+    .logo
+    {
+        padding: 30px 35px;
+    }
+    .logo img 
+    {
+        height: 30px;
+    }
+    .fa-logo
+{
+    padding: 15px 0px 0px 30px;
+}
+.img 
+{
+    padding: 80px 0px 20px 20px;
+}
+.img p 
+{
+    font-size: 20px;
+    padding-top: 5px;
+}
+.img2
+{
+    grid-template-columns: 1.5fr;
+}
+.hot
+{
+    padding: 20px 0px 20px 85px;
+    margin:3px -25px;
+    border-radius: 10px;
+}
+.most
+{
+    padding: 20px 0px 20px 55px;
+    margin:3px -25px;
+    border-radius: 10px;
+}
+.image1 h3,.image1 p,.image3 h3,.image3 p,.image5 h3,.image5 p{
+    font-size: 15px;
+}
+.image,.image2,.image4
+{
+    margin: 0px;
+    border-radius: 5px;
+}
+.img3,.img4,.img5
+{
+    margin-top: 10px;
+}
+.image1,.image5,.image3
+{
+    padding: 0px 0px 0px 20px;
+}
+.img1
+{
+    grid-template-rows: 1fr;
+}
+.fourpositiondiv{
+    grid-template-columns: 290px;
+    z-index: 0;
+}
+.imgindivs img 
+{
+    left: 220px;
+}
+.great,.great1,.great2,.great3
+{
+    padding: 10px 20px 10px 0px;
+}
+.ico9,.ico10
+{
+    margin: 15px 20px 15px 0px;
+}
+.sccaner pre
+{
+    padding: 40px 0px 0px 10px;
+}
+.test,.test1
+{
+    grid-template-rows: 2fr 1fr;
+}
+.ico4 button
+{
+    margin: 35px 0px 0px 120px;
+}
+.footer4
+{
+    padding: 20px 0px 0px 0px;
+}
+.footer4 p
+{
+    padding: 40px 0px 0px 30px;
+}
+.foter p
+{
+    padding: 40px 0px 0px 30px;
+}
+.foter1  
+{
+    padding: 0px 0px 0px 100px;
+}
+.angle
+{
+    top: 500px;
+}
+} 
